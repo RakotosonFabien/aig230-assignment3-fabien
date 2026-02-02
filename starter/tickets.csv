@@ -1,0 +1,26 @@
+﻿ticket_id,text,label
+T-001,VPN keeps disconnecting every 10 minutes on Windows 11 after latest update,network
+T-002,Password reset link is expired and user cannot login to the portal,auth
+T-003,"Email delivery delayed, outbound messages queued for hours",messaging
+T-004,"Cannot install printer driver, installer fails with error code 1603",device
+T-005,"MFA prompt never arrives on mobile app, user stuck at login",auth
+T-006,"WiFi signal drops in meeting rooms, access point reboot helps temporarily",network
+T-007,"Outlook search not returning results, index seems corrupted",messaging
+T-008,"Laptop battery drains fast after BIOS update, power settings unchanged",device
+T-009,"Portal shows 500 error when submitting form, happened after deployment",app
+T-010,"API requests timing out, latency spike observed in last hour",app
+T-011,"User cannot access shared drive, permission denied though in correct group",auth
+T-012,"Teams calls have choppy audio, jitter high on corporate network",network
+T-013,Push notifications not working on Android for the app,app
+T-014,"Mailbox is full and cannot receive emails, auto-archive not running",messaging
+T-015,"Bluetooth mouse not pairing after restart, device shows as unknown",device
+T-016,"Cannot connect to VPN from home network, error code 720 displayed",network
+T-017,"Forgot password and reset email not received, checked spam folder",auth
+T-018,"Emails stuck in outbox, not sending despite multiple attempts",messaging
+T-019,Scanner not recognized by computer after driver update,device
+T-020,"MFA app crashes on launch, unable to authenticate",auth
+T-021,"Frequent WiFi disconnections in office, affecting productivity",network
+T-022,Outlook crashes when opening certain emails with attachments,messaging
+T-023,Laptop overheating quickly after recent software installation,device
+T-024,"Web application loads slowly, performance degraded since last update",app
+T-025,API returning 403 forbidden errors for valid requests,app
